@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TollTip2/static/css/main.3fb2db7a.css",
+    "main.js": "/TollTip2/static/js/main.405221cb.js",
+    "index.html": "/TollTip2/index.html",
+    "main.3fb2db7a.css.map": "/TollTip2/static/css/main.3fb2db7a.css.map",
+    "main.405221cb.js.map": "/TollTip2/static/js/main.405221cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb2db7a.css",
+    "static/js/main.405221cb.js"
+  ]
+}
